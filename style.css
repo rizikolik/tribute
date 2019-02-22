@@ -1,0 +1,15 @@
+#img-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    
+   
+    
+}
+#image{
+max-width: 100%;
+  display: block;
+  height: auto;
+}
