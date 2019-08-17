@@ -11,7 +11,7 @@ In order to complete the project I had to fulfill the below *user stories*
 
 - **User Story #2:** I should see an element with a corresponding id="title", which contains a string (i.e. text) that describes the subject of the tribute page
 
-- **User Story #2:** I should see a div element with a corresponding id="img-div"
+- **User Story #3:** I should see a div element with a corresponding id="img-div"
 
 - **User Story #4:** Within the img-div element, I should see an img element with a corresponding id="image"
 
